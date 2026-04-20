@@ -1,6 +1,8 @@
 # Przewidywanie temperatury we wrześniu w mieście Zamość
+# Pliki
+Projekt znajudję się w pliku weather_forecast_Zamosc.ipynb natomiast dane wykorzystane do projektu znajdują się w pliku pogoda_zamosc.csv.
 # Cel projketu
-Ten prjekt polegał na stworzeniu modelu nauczania maszynowego opertego na sieciach neuronowych służącego do przewidywania pogody w mieście Zamość w miesiący wrzesień.
+Ten projekt polegał na stworzeniu modelu nauczania maszynowego opertego na sieciach neuronowych służącego do przewidywania pogody w mieście Zamość w miesiący wrzesień.
 ## Charakterystyka danych:
 Do wykonania zadania wykorzystano temperatury średnie [°C] i opady [mm] w mieście Zamość we wrześniach w latach 2023, 2024 oraz 2025.Dane podzielono na trzy zbiory: (1) zbiórtreningowy (wrzesień 2023 oraz pierwsza połowa września 2024), (2) zbiór walidacyjny (druga połowa września 2024) oraz (3) zbiór testowy (wrzesień 2025).
 
