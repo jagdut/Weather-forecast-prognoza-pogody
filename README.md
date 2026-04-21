@@ -24,8 +24,8 @@ Stworzono 5 modeli:
 <img width="388" height="300" alt="image" src="https://github.com/user-attachments/assets/f702369e-7002-40b1-bc9f-a7776f3657bf" />
 <img width="399" height="316" alt="image" src="https://github.com/user-attachments/assets/959f9f66-7dab-4535-8234-2e60895b5dfb" />
 
-## Wartość funkcji kosztu na zbiorze treningowym, walidacyjnym i testowym po ostatniej epoce:					
-<img width="676" height="411" alt="image" src="https://github.com/user-attachments/assets/39b07ad4-0774-4a95-abdf-a7d65f60a5e7" />
+## Wartość funkcji kosztu na zbiorze treningowym, walidacyjnym i testowym po ostatniej epoce:										
+<img width="705" height="411" alt="image" src="https://github.com/user-attachments/assets/58ee01ab-25d6-4a4d-9f98-cb33af5599c9" />
 
 ## Wartości rzeczywiste i przewidywania na zbiorze testowym:
 <img width="707" height="416" alt="image" src="https://github.com/user-attachments/assets/7af9c8a6-5f06-4033-b2d0-385880da77d4" />
